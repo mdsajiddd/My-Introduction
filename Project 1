@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.item {
+  border: 1px solid #11a5b8;
+  padding: 20px;
+  text-align: center;
+}
+
+.item img {
+  max-width: 100%;
+  height: auto;
+}
+
+.item h3 {
+  margin-top: 10px;
+}
+</style>
+</head>
+<body>
+  <h1><marquee>MY FASHION LOOKBOOKS</marquee></h1>
+<div class="container">
+  <div class="item">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjNwiKXQb5fF2BGeSF1dKzlkHCHw2mEWlkA&usqp=CAU" alt="Outfit 1">
+    <h3>Outfit 1</h3>
+    <p>Description of outfit 1<br><br>
+    A fashion lookbook is a visual collation of outfits and<br>
+styles that showcases the latest trends and fashion<br>
+inspiration. It's like a fashion daily filled with<br>
+stunning photographs and description of each look.<br>
+Lookbooks are often used by fasion brands,designers,<br>
+and influencers to showcase their clothing lines and<br>
+inspire others. They provide a glimpse into the<br>
+creative vision and aesthetic of a brand or individual. <br>
+lookbooks can feature a range of styles, form casual<br>
+streetwear to glamorous eveningwear. They often include<br>
+details about the clothing  pieces,accessories,and styling!<br>
+</p>
+  </div>
+  
+    <div class="item">
+    <img src="https://officetemplatesonline.com/wp-content/uploads/2022/12/women-fashion-lookbook-template-page-01.jpg" alt="Outfit 2">
+    <h3>Outfit 2</h3>
+    <p>Description of outfit 2<br><br>
+    Introduction our stunning outfit collection,a fusion of<br>
+    style,comfort,and versatility. From casual chic to elegant<br>
+    sophistication our collection offers something for every <br>
+   occasion. Discover trendy pieces like tailored blazers,<br>
+    flowy dresses, and statement accessories. Embrace your<br>
+     individuality with our curated selection of on-trend <br>
+     outfitsthat celebrate personal style. Elevate your <br>
+     wardrobe with our mix of classic essentials and <br>
+     fashion-forward designs. Each outfit is crafted with <br>
+     high-quality fabrics and attention to detail, ensuring! <br>
+
+</p> 
+  </div>
+  <div class="item">
+    <img src="https://i.ytimg.com/vi/ZofOd5c3rRc/maxresdefault.jpg" alt="Outfit 3">
+    <h3>Outfit 2</h3>
+    <p>Description of outfit 2<br><br>
+      A fashion lookbook is a collection of photographs<br>
+       showcasing different outfits and styles. It's a great<br>
+        way to inspire and express your personal fashion taste.<br>
+         Each look is carefully curated to create a cohesive and <br>
+         stylish presentation. From casual streetwear to elegant <br>
+         evening looks, a fashion lookbook allows you to showcase your creativity<br.
+           and fashion sense. With a mix of stunning photography, detailed<br>
+            descriptions, and styling tips, a fashion <br>
+            lookbook can captivate  and inspire fashion enthusiasts.  <br>
+            Whether you're a designer, blogger,  or simply love  <br>
+            fashion, a fashion lookbook is a  fantastic way to share your style with the world!
+            
+    </p>
+  </div>
+  
+</div>
+</body>
+</html>
