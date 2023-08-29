@@ -1,0 +1,64 @@
+<html>
+   <head>
+      <title>
+        This A Form web Page
+      </title>
+      
+   </head>
+  <body>
+     Name :<br />
+    <input type="text"> <br />
+     roll no:<br />
+    <input type="text"> <br />
+    Email: <br />
+    <input type="text"> <br />
+  select Branch: <br />
+    <label> Male </label>
+   <input type="radio" name="Gender" value="male">
+    <label> CSE </label>
+    <input type="radio" name="Gender" value="Female">
+    <label> IT </label>
+    <input type="radio" name="Gender" value="other"> 
+    <br /> 
+    interested Subj: <br />
+    <label> Java</label>
+    <input type="checkbook">
+    <label>Python</label>
+    <input type="checkbook">
+    <label>C++</label>
+    <input type="checkbook"> 
+    <html>
+   <head>
+      <title>
+        This A Form web Page
+      </title>
+      
+   </head>
+  <body>
+     Name :<br />
+    <input type="text"> <br />
+     roll no:<br />
+    <input type="text"> <br />
+    Email: <br />
+    <input type="text"> <br />
+  select Branch: <br />
+    <label> Male </label>
+   <input type="radio" name="Gender" value="male">
+    <label> CSE </label>
+    <input type="radio" name="Gender" value="Female">
+    <label> IT </label>
+    <input type="radio" name="Gender" value="other"> 
+    <br /> 
+    interested Subj: <br />
+    <label> Java</label>
+    <input type="checkbook">
+    <label>Python</label>
+    <input type="checkbook">
+    <label>C++</label>
+    <input type="checkbook"> 
+    
+</body>
+</html>
+
+</body>
+</html>
