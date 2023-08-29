@@ -1,0 +1,33 @@
+<html>
+<head>
+   <title>
+     INTRODUCTION 
+   </title> 
+</head>
+  <body bgcolor="orange">
+    <div>
+    <Marquee direction="left"style="color:black">
+    <h1 align="center">
+       #SELF INTRODUCTION#
+    </h1>
+    
+    </Marquee>
+    </div>
+    <br>
+    <p>
+      <h5 style="background-color:powderblue">
+       MY NAME IS <B> MD SAJID </B>. <br /> I AM FROM BIHAR IN <ins><em>DARBHANGA</em></ins> DISTRICT.<br /> PRESENT I AM DOING DIPLOMA IN COMPUTER SCIENCE ENGINEERING IN 3RD SEMESTER. <br /> MY HOBBY IS PLAYING BATTLEGROUND MOBILE INDIA 🔥 ONLINE GAMES ,<mark> PROGRAMMING </mark>& PLAYING OUTDOOR GAMES LIKE AS BADMINTON,  CRICKET ETC... <br /> I WANT TO BECOME A <mark style="background-color: grey"> PROFESSIONAL SOFTWARE ENGINEER </mark> <br /> IT'S MY AIM AND PROFESSION . <br />
+      </h5> 
+    </p>
+    <br />
+    <div align="center">
+    
+    <img src=" IMG_20230615_131147.jpg
+     "alt="My pic" height=",200px" width="300px" />
+    </div>
+    <br /> <br />
+    <div align="center">
+     <a href="  https://instagram.com/___md.sajid___?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D    ">Click on this link and go to my Instagram profile</a>
+    </div>
+  </body>
+</html>
